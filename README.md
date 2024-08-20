@@ -4,7 +4,7 @@ This code example is based on work by Elahe Fazel (Equinor/Capgemini), Jan Morte
 
 **OSDU** is an initiative aimed at creating a unified, open-source data platform specifically for the energy industry. OSDU ensures that data can be easily shared and used across different software platforms and tools, reducing the silos that often exist within organizations. 
 
-**ADME** (Azure Data Manager for Industry) is our enterprise grade data platform that combines the reference architecture of the OSDU data platform, Microsoft’s secure and reliable Azure cloud platform, and SLB’s deep domain knowledge.
+**ADME** (Azure Data Manager for Energy) is our enterprise grade data platform that combines the reference architecture of the OSDU data platform, Microsoft’s secure and reliable Azure cloud platform, and SLB’s deep domain knowledge.
 
 **Problem statement:** The current search and storage APIs in OSDU are not designed to directly serve Analytics and AI use-cases, but rather classical workflows in the business units.
 
