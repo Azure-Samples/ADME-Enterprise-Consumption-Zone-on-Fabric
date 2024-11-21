@@ -1,6 +1,6 @@
 # Exposing OSDU/ADME meta data for Analytics and AI use-cases in Azure Fabric
 
-This code example is based on work by Elahe Fazel (Equinor/Capgemini), Jan Mortensen (Equinor), Iman Kheiri(Equinor/Capgemini), Jon Olav Abeland (Microsoft) and Eirik Haughom (Microsoft).
+This code example is based on work by [Elahe Fazel (Equinor/Capgemini)](https://github.com/elahefa), Jan Mortensen (Equinor), Iman Kheiri(Equinor/Capgemini), Jon Olav Abeland (Microsoft) and Eirik Haughom (Microsoft).
 
 **OSDU** is an initiative aimed at creating a unified, open-source data platform specifically for the energy industry. OSDU ensures that data can be easily shared and used across different software platforms and tools, reducing the silos that often exist within organizations. 
 
@@ -17,7 +17,8 @@ Microsoft Fabric is an enterprise-grade platform that integrates comprehensive c
 This project framework provides the following features:
 
 * [A Pyspark notebook to set up delta lake tables needed and some extra helper code](/code/ADME_Setup.ipynb)
-* [A Pyspark notebook that will export ADME meta data to Fabric delta lake tables](/code/Fabric_Delta_Export.ipynb)
+* [A Pyspark notebook that will export Search API ADME meta data to Fabric delta lake tables](/code/Fabric_Delta_Export.ipynb)
+* [A Pyspark notebook that will export Storage API ADME meta data to Fabric delta lake tables](/code/Storage_API_Export.ipynb)
 
 
 ## Getting Started
