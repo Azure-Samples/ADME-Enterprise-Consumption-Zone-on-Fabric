@@ -17,7 +17,8 @@ Microsoft Fabric is an enterprise-grade platform that integrates comprehensive c
 This project framework provides the following features:
 
 * [A Pyspark notebook to set up delta lake tables needed and some extra helper code](/code/ADME_Setup.ipynb)
-* [A Pyspark notebook that will export ADME meta data to Fabric delta lake tables](/code/Fabric_Delta_Export.ipynb)
+* [A Pyspark notebook that will export Search API ADME meta data to Fabric delta lake tables](/code/Fabric_Delta_Export.ipynb)
+* [A Pyspark notebook that will export Storage API ADME meta data to Fabric delta lake tables](/code/Storage_API_Export.ipynb)
 
 
 ## Getting Started
