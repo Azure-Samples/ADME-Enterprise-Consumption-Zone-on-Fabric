@@ -1,6 +1,6 @@
 # Exposing OSDU/ADME meta data for Analytics and AI use-cases in Azure Fabric
 
-This code example is based on work by Elahe Fazel (Equinor/Capgemini), Jan Mortensen (Equinor), Iman Kheiri(Equinor/Capgemini), Jon Olav Abeland (Microsoft) and Eirik Haughom (Microsoft).
+This code example is based on work by [Elahe Fazel (Equinor/Capgemini)](https://github.com/elahefa), Jan Mortensen (Equinor), Iman Kheiri(Equinor/Capgemini), Jon Olav Abeland (Microsoft) and Eirik Haughom (Microsoft).
 
 **OSDU** is an initiative aimed at creating a unified, open-source data platform specifically for the energy industry. OSDU ensures that data can be easily shared and used across different software platforms and tools, reducing the silos that often exist within organizations. 
 
